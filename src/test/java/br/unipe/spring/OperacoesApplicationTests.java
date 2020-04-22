@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import br.unipe.spring.service.Operacoes;
 
 @SpringBootTest
-class OperaçõesApplicationTests {
+class OperacoesApplicationTests {
 
 	@Test
 	void contextLoads() {
