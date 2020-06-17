@@ -17,6 +17,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.projectKey>Operacoes</sonar.projectKey>
 		<sonar.host.url>http://ip172-18-0-47-brl3sj5im9m0009e2b7g-9000.direct.labs.play-with-docker.com</sonar.host.url>
 		<sonar.login>68b9bdd17329731a44dbe14fa836022ead381890</sonar.login>
