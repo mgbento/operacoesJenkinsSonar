@@ -20,8 +20,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.projectKey>Operacoes</sonar.projectKey>
-		<sonar.host.url>http://ip172-18-0-47-brl3sj5im9m0009e2b7g-9000.direct.labs.play-with-docker.com</sonar.host.url>
-		<sonar.login>68b9bdd17329731a44dbe14fa836022ead381890</sonar.login>
+		<sonar.host.url>http://ip172-18-0-44-brl7b02osm4g00c7jntg-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>a442e5d49c62ee40eae0c24c42d018a45c68f18c</sonar.login>
 		
 	</properties>
 
